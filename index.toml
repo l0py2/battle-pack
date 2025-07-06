@@ -66,11 +66,6 @@ hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons.pw.toml"
-hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
-metafile = true
-
-[[files]]
 file = "mods/jade-vs.pw.toml"
 hash = "352f9d8001c89df7cbbeebe221db84aeeb253d70cf2a257d58f8ea5ba816c20c"
 metafile = true
