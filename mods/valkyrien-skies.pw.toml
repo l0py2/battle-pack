@@ -1,0 +1,13 @@
+name = "Valkyrien Skies (Forge/Fabric)"
+filename = "valkyrienskies-120-2.3.0-beta.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "043d3fcf4054fb32723263dcf272f9751af310a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6510608
+project-id = 258371

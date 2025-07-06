@@ -1,0 +1,13 @@
+name = "Battle Pack"
+author = "l0py2"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "735cdfbf7c9f970a6e9fb6c8f4b246d4fa2c514f1569c34da2d33c3958c7a3c4"
+
+[versions]
+forge = "47.4.3"
+minecraft = "1.20.1"
