@@ -6,6 +6,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/cbc-modern-warfare.pw.toml"
+hash = "24ef339d819c9d4dec14ce7aeb7b1478bf17cb742bf1fbe1114592932e588af9"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "5155826ce12f20640e38b152d38dd1a5314a7bd24a9c64811753f123088dcd34"
+metafile = true
+
+[[files]]
+file = "mods/create-tank-defenses.pw.toml"
+hash = "c58b3c215d107ad651567522d6f8ea19248c20691b20ae47d07fe42127173c19"
 metafile = true
 
 [[files]]
