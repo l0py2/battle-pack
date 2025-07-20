@@ -51,6 +51,11 @@ hash = "5155826ce12f20640e38b152d38dd1a5314a7bd24a9c64811753f123088dcd34"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "c74fea949c16afdb0edb954c0c00365764cc067b1edfe5c5d68207a55a55ea6a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "f41389f9500b106cecf0a83d2fc68b0730036af50ceb9ef8682ac7f70b325560"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "009f6c1e4e35593a2e96ee3875ddbb2b07470057bc90ed8ec8f8732303108d04"
+metafile = true
+
+[[files]]
+file = "mods/vmod.pw.toml"
+hash = "7b7a6fdcf67d65df5c0e8440516cbbe48fafb4367f749d1935a34aa0fed05883"
 metafile = true
 
 [[files]]
