@@ -56,6 +56,11 @@ hash = "c74fea949c16afdb0edb954c0c00365764cc067b1edfe5c5d68207a55a55ea6a"
 metafile = true
 
 [[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "f8197cbf0cb7ff3e9ee65f0fc46101082ad9c1a8a3ba853f4fd5fdd8847da878"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "f41389f9500b106cecf0a83d2fc68b0730036af50ceb9ef8682ac7f70b325560"
 metafile = true
