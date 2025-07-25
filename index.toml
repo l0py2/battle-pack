@@ -56,6 +56,11 @@ hash = "f99c969b935fbd18e0c60aafdfec2018302d605b7f4c75878c6ba1b5af948ba5"
 metafile = true
 
 [[files]]
+file = "mods/create-ender-transmission.pw.toml"
+hash = "a013b50eb3c470bd26324d8f528598135d4ebca6066951b4345cb7c64099d47b"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c74fea949c16afdb0edb954c0c00365764cc067b1edfe5c5d68207a55a55ea6a"
 metafile = true
