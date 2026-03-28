@@ -1,6 +1,7 @@
 name = "Eureka! Ships! for Valkyrien Skies (Forge/Fabric)"
 filename = "eureka-1201-1.5.1-beta.3.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

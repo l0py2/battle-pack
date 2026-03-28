@@ -1,6 +1,7 @@
 name = "Drive-By-Wire"
 filename = "drivebywire-1.20.1-0.0.10.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

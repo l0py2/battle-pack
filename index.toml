@@ -7,12 +7,17 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "1b912abaf6db8c9107e2de1b891c0900aa9db637b90e926dcdee9688e6f49b32"
+hash = "724fe40135f0ed7f2614cd14116706686df7b092052af048dfbd109dad0c6863"
 metafile = true
 
 [[files]]
 file = "mods/cbc-modern-warfare.pw.toml"
-hash = "24ef339d819c9d4dec14ce7aeb7b1478bf17cb742bf1fbe1114592932e588af9"
+hash = "f9c6ca89655bd93cd9fab1395de1e18a20fe4bdd1de7b164b525d3b29c0e4844"
+metafile = true
+
+[[files]]
+file = "mods/cbc-more-shells.pw.toml"
+hash = "b941c416e31beaf639e7a417f9fcf4a2d69690e06b31a9fe5dac822e4d5968d8"
 metafile = true
 
 [[files]]
@@ -27,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "ecb38d3ef28fa3ffe3d368f59e789da9529fce4b43efa266f779000b40c6c88e"
+hash = "b82ff450c67ce4ccb0b6960fe020971553513a7e8a03a8b818d4dcf7d43792db"
 metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "0a52616a687a2815f16640d758d1b85f4f15d4897a169e2fc306b908a3bffe0f"
+hash = "d62480bc696affd0a714d4cd74b5dc64a072b9d67d505b52df87ebcdf9650a79"
 metafile = true
 
 [[files]]
@@ -42,17 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "c636979fe6705452c913fecba3dd590c0feb83ddbccdf6e8ec5e921c9681c769"
+hash = "9af5c823dd08ae95a34663e13f9f5d34d97a9eb19ee14b2659dc50fe9a41d32b"
 metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "5155826ce12f20640e38b152d38dd1a5314a7bd24a9c64811753f123088dcd34"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "f99c969b935fbd18e0c60aafdfec2018302d605b7f4c75878c6ba1b5af948ba5"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-wire.pw.toml"
-hash = "66480dff746d968c27d6597f8861459fa8598a5f3880bf30bc317c1837a19859"
+hash = "359dcf2a6bc2edd4ec30b66bb7852fa6674fb99207a1a083f9ad5a6225d9c7fe"
 metafile = true
 
 [[files]]
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e5650ca09fdb53d1c197b4b7d000c432a566c559381106edeee0e2abc2ce1cd0"
+hash = "5934060aed168eb17658f596971f92f8ebf89f8f5e750a479277ca6801631fc6"
 metafile = true
 
 [[files]]
 file = "mods/eureka-ships.pw.toml"
-hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
+hash = "414e77e4e8c1651c4adbbd4b7720fdd21e1214c7b70a43fe6f248801f74e6f3b"
 metafile = true
 
 [[files]]
@@ -111,33 +111,43 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "591082f1380a5542d2d1acb537d8d53ee26b5492a0b757d086729e926465eca8"
+hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
 metafile = true
 
 [[files]]
 file = "mods/jade-vs.pw.toml"
-hash = "352f9d8001c89df7cbbeebe221db84aeeb253d70cf2a257d58f8ea5ba816c20c"
+hash = "7548e53ecdcfc9c1de109e34edc4c5df22b1c114cbb8143ccff6d782d48b1cc5"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "aba5a3408880f30daf3442ff6d0a640e9a78e578d9f0c3a3be175ca12dbc3167"
+hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
+hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
+file = "mods/lesraisins-armor.pw.toml"
+hash = "742c1968468eadf99efa73b0d2f3b74390c5d7b15d33ed5c962cb33d6d415e37"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3c35c6a48fe371942dcfcddcad6c6a8c62970ed8ac744d00767e1edc6edf88c1"
+hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
 metafile = true
 
 [[files]]
@@ -151,31 +161,26 @@ hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
 
 [[files]]
+file = "mods/tacz-lesraisins-tactical-equipements.pw.toml"
+hash = "d97655330510c21898fe03027bd9841e34af2c6bc89372f22a6b23e71068b5ab"
+metafile = true
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "61466bd93ab560b9e8e5270a196a1776c8348d20875a18d6e32a825327b79046"
+hash = "bdf09ff8a5f8f1acbe5bff48e7cfe96f47f1643b9761abb3fce9f07348a7eb0c"
 metafile = true
 
 [[files]]
 file = "mods/trackwork.pw.toml"
-hash = "9e67e4aa744c0b51ccdede40cba758ff34b18900ceeafc8459f23a8b147d6d12"
+hash = "662f48833eca7a2eeabc1f011b40065910a87531669c371f1898812acf99e9e3"
 metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "009f6c1e4e35593a2e96ee3875ddbb2b07470057bc90ed8ec8f8732303108d04"
+hash = "d4995add345ebbd5f9a6877e04308a43c23f1a02f000ec7d9f9a8dc9b8602077"
 metafile = true
 
 [[files]]
 file = "mods/vmod.pw.toml"
 hash = "7b7a6fdcf67d65df5c0e8440516cbbe48fafb4367f749d1935a34aa0fed05883"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "5484f52f5055b1bc42a21508214caf4a3a2c89353a49765b4be6cd24f7d5514e"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "8c1d85564af53d61caf23b502b60c494d33450a670093fdd3e2f412368682ecc"
 metafile = true
